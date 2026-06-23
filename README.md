@@ -749,6 +749,6 @@ git push origin feature/your-feature-name
 
 **⭐ If you found this helpful, please consider starring the repository!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Deep Kamal](https://github.com/yourusername)
 
 </div>
